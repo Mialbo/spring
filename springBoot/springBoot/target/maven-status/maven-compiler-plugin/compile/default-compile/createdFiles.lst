@@ -1,5 +1,0 @@
-com\multiskill\springBoot\service\ProductoService.class
-com\multiskill\springBoot\model\Producto.class
-com\multiskill\springBoot\MainApplication.class
-com\multiskill\springBoot\repository\ProductoRepository.class
-com\multiskill\springBoot\controller\ProductoController.class
