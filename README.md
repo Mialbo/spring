@@ -27,6 +27,6 @@ Asegúrate de tener instalado:
 Para clonar y ejecutar el proyecto:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/Mialbo/spring.git
 cd tu-repo
 ./mvnw spring-boot:run
